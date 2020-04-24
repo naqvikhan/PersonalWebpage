@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 250" style="enable-background:new 0 0 200 250;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#272822;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'CourierNewPSMT';}
+	.st4{font-size:41px;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="17.6744" y1="625.4495" x2="1458.9923" y2="625.4495">
+	<stop  offset="0" style="stop-color:#C1272D"/>
+	<stop  offset="0.529" style="stop-color:#93278F"/>
+	<stop  offset="1" style="stop-color:#662D91"/>
+</linearGradient>
+<rect x="17.7" y="480.5" class="st0" width="1441.3" height="289.9"/>
+<g>
+	<g>
+		
+			<image style="overflow:visible;" width="1406" height="284" xlink:href="8F0B1FEDA1659601.png"  transform="matrix(1 0 0 1 45.1572 478)">
+		</image>
+	</g>
+	<g>
+		
+			<text transform="matrix(4.887516e-11 -1.0886 1 4.489659e-11 179.7862 715.6909)" style="font-family:'Active-Regular'; font-size:122.0165px;">1998</text>
+		<text transform="matrix(0.9505 0 0 1 213.8975 657.1759)" style="font-family:'Active-Regular'; font-size:120px;">~~~~~~~~~~~~~~~~~~ </text>
+		<rect x="1268.5" y="525.4" style="fill:none;" width="112.4" height="200"/>
+		
+			<text transform="matrix(-1.346898e-10 1 -1 -1.346898e-10 1291.8789 596.378)" style="font-family:'Active-Regular'; font-size:145px;">8</text>
+	</g>
+</g>
+<rect x="-25.4" y="-15.9" width="1484.4" height="300.6"/>
+<rect x="82.2" y="-138.9" class="st1" width="475.1" height="92.8"/>
+<text transform="matrix(1 0 0 1 3.0557 109.7632)"><tspan x="0" y="0" class="st2 st3 st4">&lt;Hello, </tspan><tspan x="0" y="49.2" class="st2 st3 st4">World!/&gt;</tspan></text>
+</svg>
